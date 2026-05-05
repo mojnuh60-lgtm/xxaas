@@ -57,3 +57,19 @@ replace:
       to: "mm3.interesting2026.blog"
     - from: "tt.good2026.com"
       to: "tt3.interesting2026.blog"
+
+replace-digilink:
+  enabled: true
+  values:
+    - from: "n1.good2026.com"
+      to: "nn2.interesting2026.blog"
+    - from: "n2.good2026.com"
+      to: "nn2.interesting2026.blog"
+    - from: "x1.good2026.com"
+      to: "nn2.interesting2026.blog"
+    - from: "x2.good2026.com"
+      to: "nn2.interesting2026.blog"
+    - from: "mm.good2026.com"
+      to: "nn2.interesting2026.blog"
+    - from: "tt.good2026.com"
+      to: "nn2.interesting2026.blog"
