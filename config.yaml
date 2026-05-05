@@ -12,7 +12,6 @@ hosts:
   light: "https://mi.xiaomizao.cc"
   km: "https://base.kuaimao.io"
   qz: "https://base.qingzhou.world"
-  lv: "https://lvdengjiasu.top"
   gs: "https://gscloud.icu"
   grd: "https://grdcloud.com"
   xz: "https://api.xianzheyun.top"
@@ -21,7 +20,6 @@ hosts:
   moc: "https://mocv2.com"
   bl: "https://sulian.info"
   bl2: "https://ssp.sulian.info"
-  kj: "https://520ape.com"
 
 xbn:
   - "hx"
