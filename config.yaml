@@ -24,6 +24,10 @@ xbn:
   - "hx"
   - "nc"
 
+block:
+  enabled: true
+  value: "mm.interesting2026.blog"
+
 replace:
   enabled: true
   values:
