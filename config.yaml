@@ -31,20 +31,6 @@ block:
 replace:
   enabled: true
   values:
-    - from: "qy-m.ikookook.com"
-      to: "tt3.interesting2026.blog"
-    - from: "qy-hk.kunlun06dns.com"
-      to: "n1.good2026.com"
-    - from: "qy-us.kunlun06dns.com"
-      to: "mm2.interesting2026.blog"
-    - from: "qy-us.kunlun06dns.com"
-      to: "tt3.interesting2026.blog"      
-    - from: "qy-jp.kunlun06dns.com"
-      to: "tt3.interesting2026.blog"
-    - from: "qy-kr.kunlun06dns.com"
-      to: "mm2.interesting2026.blog"
-    - from: "qy-sg.kunlun06dns.com"
-      to: "mm2.interesting2026.blog"
     - from: "n1.good2026.com"
       to: "nn2.interesting2026.blog"
     - from: "n2.good2026.com"
