@@ -19,7 +19,6 @@ hosts:
   rock: "https://58rocket.com"
   moc: "https://mocv2.com"
   bl: "https://sulian.info"
-  bl2: "https://ssp.sulian.info"
 
 xbn:
   - "hx"
