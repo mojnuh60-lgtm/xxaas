@@ -40,7 +40,7 @@ replace:
     - from: "x2.good2026.com"
       to: "nn2.interesting2026.blog"
     - from: "mm.good2026.com"
-      to: "mm3.interesting2026.blog"
+      to: "testm.interesting202603.com"
     - from: "tt.good2026.com"
       to: "tt3.interesting2026.blog"
 
