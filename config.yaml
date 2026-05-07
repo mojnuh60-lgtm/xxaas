@@ -42,7 +42,7 @@ replace:
     - from: "mm.good2026.com"
       to: "testm.interesting202603.com"
     - from: "tt.good2026.com"
-      to: "tt3.interesting2026.blog"
+      to: "testt.interesting202603.com"
 
 replace-digilink:
   enabled: true
