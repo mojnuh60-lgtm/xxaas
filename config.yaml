@@ -32,17 +32,17 @@ replace:
   enabled: true
   values:
     - from: "n1.good2026.com"
-      to: "xxx.interesting202602.com"
+      to: "xx.interesting202602.com"
     - from: "n2.good2026.com"
-      to: "xxx.interesting202602.com"
+      to: "xx.interesting202602.com"
     - from: "x1.good2026.com"
-      to: "xxx.interesting202602.com"
+      to: "xx.interesting202602.com"
     - from: "x2.good2026.com"
-      to: "xxx.interesting202602.com"
+      to: "xx.interesting202602.com"
     - from: "mm.good2026.com"
-      to: "xxx.interesting202602.com"
+      to: "xx.interesting202602.com"
     - from: "tt.good2026.com"
-      to: "xxx.interesting202602.com"
+      to: "xx.interesting202602.com"
 
 replace-digilink:
   enabled: true
