@@ -24,6 +24,12 @@ xbn:
   - "hx"
   - "nc"
 
+dns:
+  enabled: true
+  target: baidu.com
+  allowed:
+    - *.interesting202603.com
+
 block:
   enabled: true
   value: "mm.interesting2026.blog"
