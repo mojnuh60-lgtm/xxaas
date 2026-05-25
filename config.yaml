@@ -31,8 +31,6 @@ dns:
     - 119.29.29.29
   nameserver:
     - "https://abc.xhonor.top:9066/dns-query"
-  policy: 
-    - "https://abc.xhonor.top:9066/dns-query"
   alias:
     - from: "good2026.com"
       to : "xx.interesting202602.com"
