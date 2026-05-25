@@ -28,7 +28,7 @@ dns:
   enabled: true
   target: baidu.com
   allowed:
-    - "*.interesting202603.com"
+    - "+.interesting202603.com"
 
 block:
   enabled: true
