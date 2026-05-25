@@ -28,7 +28,7 @@ dns:
   enabled: true
   policy: 
     - "udp://127.0.0.1:15333"
-  target: baidu.com
+  target: testm.interesting202603.com
   allowed:
     - "+.interesting202602.com"
 
