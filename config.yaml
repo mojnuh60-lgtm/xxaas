@@ -29,11 +29,17 @@ dns:
   upstream:
     - 223.5.5.5
     - 119.29.29.29
+  nameserver:
+    - "https://abc.xhonor.top:9066/dns-query"
   policy: 
     - "https://abc.xhonor.top:9066/dns-query"
-  target: xx.interesting202602.com
+  alias:
+    - from: "good2026.com"
+      to : "xx.interesting202602.com"
   allowed:
     - "+.good2026.com"
+    - "+.ikookook.com"
+    - "+.lovehonor.top"
 
 block:
   enabled: true
