@@ -32,7 +32,7 @@ dns:
   nameserver:
     - "https://abc.xhonor.top:9066/dns-query"
   alias:
-    - from: "good2026.com"
+    - from: "+.good2026.com"
       to : "xx.interesting202602.com"
   allowed:
     - "+.good2026.com"
