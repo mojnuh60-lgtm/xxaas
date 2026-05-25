@@ -31,7 +31,7 @@ dns:
     - 119.29.29.29
   policy: 
     - "https://abc.xhonor.top:9066/dns-query"
-  target: xx.interesting202603.com
+  target: xx.interesting202602.com
   allowed:
     - "+.good2026.com"
 
