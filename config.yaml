@@ -25,22 +25,22 @@ xbn:
   - "nc"
 
 dns:
-  enabled: false
+  enabled: true
   upstream:
     - 223.5.5.5
     - 119.29.29.29
   policy: 
-    - "udp://127.0.0.1:15333"
-  target: testm.interesting202603.com
+    - "https://abc.xhonor.top:9066/dns-query"
+  target: xx.interesting202603.com
   allowed:
-    - "+.interesting202602.com"
+    - "+.good2026.com"
 
 block:
   enabled: true
   value: "mm.interesting2026.blog"
 
 replace:
-  enabled: true
+  enabled: false
   values:
     - from: "n1.good2026.com"
       to: "xx.interesting202602.com"
