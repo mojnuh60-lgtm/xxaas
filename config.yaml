@@ -34,6 +34,8 @@ dns:
   alias:
     - from: "+.good2026.com"
       to: "baidu.interesting202602.com"
+    - from: "sg1.ikookook.com"
+      to: "xxx-sg1.ikookook.com"
   allowed:
     - "+.good2026.com"
     - "+.ikookook.com"
