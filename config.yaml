@@ -36,6 +36,8 @@ dns:
       to: "baidu.interesting202602.com"
     - from: "sg1.ikookook.com"
       to: "xxx-sg1.ikookook.com"
+    - from: "kr1.ikookook.com"
+      to: "xxx-kr1.ikookook.com"
   allowed:
     - "+.good2026.com"
     - "+.ikookook.com"
